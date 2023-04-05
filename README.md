@@ -1,1 +1,1 @@
-# Global-Terrorsim-Dataset-GTD-
+# Global-Terrorsim-Dataset-GTD
