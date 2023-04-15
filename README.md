@@ -17,7 +17,6 @@ Steps to run on your local desktop: (using Bokeh Server)
 - An interactive dashboard hosted locally will be prompted.
 
 References:
-
-1.https://www.kaggle.com/START-UMD/gtd
-2.https://www.start.umd.edu/gtd
-3.https://start.umd.edu/gtd/downloads/Codebook.pdf
+-https://www.kaggle.com/START-UMD/gtd
+-https://www.start.umd.edu/gtd
+-https://start.umd.edu/gtd/downloads/Codebook.pdf
