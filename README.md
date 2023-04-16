@@ -16,6 +16,10 @@ Steps to run on your local desktop: (using Bokeh Server)
 - Run the module via prompt, key in command: bokeh serve --show GTD_tool.ipynb
 - An interactive dashboard hosted locally will be prompted.
 
+
+Website Link: https://shubham777.github.io/Global-Terrorsim-Dataset-GTD-/
+
+
 References:
 - https://www.kaggle.com/START-UMD/gtd
 - https://www.start.umd.edu/gtd
